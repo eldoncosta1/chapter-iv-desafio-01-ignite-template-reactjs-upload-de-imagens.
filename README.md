@@ -6,9 +6,7 @@
 - Envio de formulário com React Hook Form
 - Exibição de Modal e Toast com Chakra UI
 
-
-
-![](https://i.imgur.com/zPJmveg.gif)
+![img](https://i.imgur.com/zPJmveg.gif)
 
 ## Testando aplicação
 
@@ -29,3 +27,5 @@ npm run dev
 # or
 yarn dev
 ```
+
+[https://imgur.com/zPJmveg]: https://imgur.com/zPJmveg "https://imgur.com/zPJmveg"
