@@ -21,7 +21,7 @@ yarn test
 Para executar a aplicação, inicie primeiro a API com o comando:
 
 ```bash
-npm run server
+npm run dev
 # or
-yarn server
+yarn dev
 ```
