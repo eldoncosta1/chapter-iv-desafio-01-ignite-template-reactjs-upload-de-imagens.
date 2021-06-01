@@ -6,7 +6,8 @@
 - Envio de formulário com React Hook Form
 - Exibição de Modal e Toast com Chakra UI
 
-![](https://i.imgur.com/zPJmveg.gif)
+![](https://i.imgur.com/0aStVm0.gif)
+
 
 ## Testando aplicação
 
